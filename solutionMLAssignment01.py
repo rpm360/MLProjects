@@ -54,10 +54,3 @@ print(x.head())
 print()
 
 
-# In[ ]:
-
-
-As we plot these values on to one dimension, we get 1…2….9……18 and 
-we calculate euclidean distance between these point we can say that box(1,1) & box(2,1) 
-and box(2,1) & box(3,3) are in close proximity
-
